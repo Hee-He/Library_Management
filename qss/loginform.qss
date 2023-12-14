@@ -1,0 +1,42 @@
+LoginForm
+{
+    background-color:qlineargradient(spread:pad, x1:0.091, y1:0.101636, x2:0.991379, y2:0.977, stop:0 rgba(209, 107, 165, 255), stop:1 rgba(255, 255, 255, 255));
+}
+
+QLineEdit
+{
+    background-color: rgba(0,0,0,0);
+    font: 12pt "MS Shell Dlg 2";
+    height: 40px;
+    width: 250px;
+    margin-left: 80%;
+}
+QPushButton
+{
+    background-color: rgb(170, 255, 255);
+}
+.login
+{
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+}
+.create
+{
+    border-radius: 5px;
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+}
+QPushButton:hover
+{
+    border-radius: 5px;
+    background-color: blueviolet;
+}
+QGroupBox
+{
+    font-size: 30px;
+    border: 2px solid;
+    border-radius: 10px;
+}

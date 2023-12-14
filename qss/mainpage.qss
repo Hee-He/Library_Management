@@ -1,0 +1,6 @@
+.setting
+{
+    background: none;
+    outline: none;
+    color: red;
+}
